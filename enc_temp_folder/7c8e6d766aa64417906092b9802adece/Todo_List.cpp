@@ -5,7 +5,7 @@
 #include <string>
 using namespace std;
 
-bool isRunning = true; // run forest run
+bool isRunning = true;
 
 struct Tasks {
     string timeAdded;
